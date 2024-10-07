@@ -1,9 +1,7 @@
 # VulnHub-ICA-1
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The objective of the VulnHub ICA:1 project was to enhance my cybersecurity skills by completing a Capture The Flag (CTF) challenge. This involved systematically identifying and exploiting vulnerabilities within a virtual machine environment to gain unauthorized access and escalate privileges. The project aimed to develop proficiency in network scanning, vulnerability exploitation, password cracking, and privilege escalation, while utilizing various cybersecurity tools and techniques. Through this exercise, I aimed to demonstrate my ability to apply theoretical knowledge in practical scenarios, effectively analyze security weaknesses, and implement solutions to overcome them.
 
 ### Skills Learned
 - Enumeration: Identifying open ports and services.
